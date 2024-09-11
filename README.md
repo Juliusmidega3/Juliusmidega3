@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julius Midega</h1>
-<h3 align="center">I am a passionate Data science and Machine learning Developer</h3>
+<h3 align="center">I am a software engeeneer and Machine learning Developer</h3>
 <img align="right" width="400" src="https://64.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliusmidega3&label=Profile%20views&color=0e75b6&style=flat" alt="juliusmidega3" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Big Data**
 
-- 💬 Ask me about **Data analysis, Data Pipelines, Machine Learning, Django Framework**
+- 💬 Ask me about **React, Data Pipelines, Machine Learning, Django Framework**
 
 - 📫 How to reach me **midegajulius3@gmail.com**
 
